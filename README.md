@@ -6,6 +6,35 @@ The primary goal of this project is to address the prohibitive computational cos
 
 ---------------------------------
 
+== 📄 Publication & Citation ==
+
+This repository contains the implementation for the methods described in our paper:
+
+> **Wideband Kriging for Multiobjective Optimization of a High-Voltage EMI Filter**
+>
+> Rodrigo Silva Rezende, Jan Hansen, Albert Piwonski, and Rolf Schuhmann
+>
+> *IEEE Transactions on Electromagnetic Compatibility, 2024*
+>
+> **[View Paper (DOI): 10.1109/TEMC.2024.3390556](https://doi.org/10.1109/TEMC.2024.3390556)**
+
+If you use this code or the methods in your research, please cite our paper:
+
+```bibtex
+@ARTICLE{10528870,
+  author={Rezende, Rodrigo Silva and Hansen, Jan and Piwonski, Albert and Schuhmann, Rolf},
+  journal={IEEE Transactions on Electromagnetic Compatibility}, 
+  title={Wideband Kriging for Multiobjective Optimization of a High-Voltage EMI Filter}, 
+  year={2024},
+  volume={66},
+  number={4},
+  pages={1116-1124},
+  doi={10.1109/TEMC.2024.3390556}
+}
+```
+
+---------------------------------
+
 == ✨ Features ==
 
 * Novel Surrogate Modeling: Implements Algebraic Vectorial Kriging and Co-Kriging, novel vector-valued Gaussian Process (GP) methods.
