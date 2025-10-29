@@ -1,4 +1,4 @@
-#Algebraic-Vectorial-Kriging 💡
+# Algebraic-Vectorial-Kriging 💡
 
 This repository provides a Julia implementation of Algebraic Vectorial Kriging (AVK), a novel vectorial surrogate model designed to accelerate optimization procedures that rely on expensive simulations.
 
@@ -52,7 +52,6 @@ Ensure you have Julia installed (e.g., version 1.6 or higher). You can download 
 
 2. Clone the Repository
 
-   # Replace with your actual repository URL
    git clone https://github.com/rodrigorezende1/Algebraic-Vectorial-Kriging.git
    cd Algebraic-Vectorial-Kriging
 
