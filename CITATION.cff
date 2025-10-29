@@ -1,0 +1,29 @@
+# ---------------------------------------------------
+# /CITATION.cff
+# ---------------------------------------------------
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Algebraic-Vectorial-Kriging"
+authors:
+  - family-names: "Rezende"
+    given-names: "Rodrigo Silva"
+
+preferred-citation:
+  type: article
+  title: "Wideband Kriging for Multiobjective Optimization of a High-Voltage EMI Filter"
+  authors:
+    - family-names: "Rezende"
+      given-names: "Rodrigo Silva"
+    - family-names: "Hansen"
+      given-names: "Jan"
+    - family-names: "Piwonski"
+      given-names: "Albert"
+    - family-names: "Schuhmann"
+      given-names: "Rolf"
+  journal: "IEEE Transactions on Electromagnetic Compatibility"
+  year: 2024
+  volume: 66
+  number: 4
+  pages: "1116-1124"
+  doi: "10.1109/TEMC.2024.3390556"
+  url: "https://doi.org/10.1109/TEMC.2024.3390556"
