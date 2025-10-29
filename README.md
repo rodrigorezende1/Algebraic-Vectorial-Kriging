@@ -1,4 +1,4 @@
-Algebraic-Vectorial-Kriging 💡
+#Algebraic-Vectorial-Kriging 💡
 
 This repository provides a Julia implementation of Algebraic Vectorial Kriging (AVK), a novel vectorial surrogate model designed to accelerate optimization procedures that rely on expensive simulations.
 
