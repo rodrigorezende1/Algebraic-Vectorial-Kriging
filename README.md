@@ -34,6 +34,7 @@ By replacing the "real" simulation with this fast-to-evaluate surrogate, the AVK
 
 .
 ├── Co_Kriging/src/         # Implementation of Co-Kriging models (incl. AV-CoKriging)
+
 ├── ErrorCalc/src/          # Functions to compute model accuracy
 ├── Kriging/src/            # Implementation of Kriging models (incl. AVK)
 ├── Sampling_Plan/src/      # Utilities for generating sampling plans
